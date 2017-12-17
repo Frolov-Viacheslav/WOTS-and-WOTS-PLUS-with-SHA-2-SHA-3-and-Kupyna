@@ -1,1 +1,1 @@
-# WOTS-and-WOTS-PLUS-with-SHA-2-SHA-3-and-Kupyna
+# WOTS and WOTS+ with hash functions SHA-2, SHA-3 and Kupyna
